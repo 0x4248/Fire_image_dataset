@@ -10,6 +10,8 @@ This dataset contains images of flames and fires. The background is black and th
 - `Set 4` - Contains 50 images taken on iPhone 14 Pro. 36MP resolution, Square format.
 - `Set 5` - Contains 50 images taken on iPhone 14 Pro. 9MP resolution, Square format.
 - `Set 6` - Contains 120 images taken on iPhone 14 Pro. 9MP resolution, 4:3 format.
+- `Set 7` - Contains 150 images taken on iPhone 14 Pro. 9MP resolution, Square format.
+- `Set 8` - Contains 122 images taken on iPhone 14 Pro. 9MP resolution, Square format.
 
 ## Licence
 
